@@ -1,0 +1,1 @@
+# yooin_resource
